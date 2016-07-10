@@ -1,0 +1,88 @@
+{
+  "items": {
+    "item0": {
+      "question":{
+        "t1":"res.question_mp3",
+        "t2":"res.szc_png"
+      },
+      "options":{
+        "1":"res.sanjiaoxing_png",
+        "2":"res.zhengfangxing_png",
+        "3":"res.changfangzing_png",
+        "4":"res.lingxing_png",
+        "5":"res.tixing_png"
+      },
+      "answer":"3,2,1"
+    },
+    "item1": {
+      "question":{
+        "t1":"res.question_mp3",
+        "t2":"res.slc_png"
+      },
+      "options":{
+        "1":"res.sanjiaoxing_png",
+        "2":"res.lingxing_png",
+        "3":"res.changfangzing_png",
+        "4":"res.yuan_png",
+        "5":"res.zhengfangxing_png"
+      },
+      "answer": "3,2,1"
+    },
+    "item2": {
+      "question":{
+        "t1":"res.question_mp3",
+        "t2":"res.ylc_png"
+      },
+      "options":{
+        "1":"res.yuan_png",
+        "2":"res.lingxing_png",
+        "3":"res.changfangzing_png",
+        "4":"res.zhengfangxing_png",
+        "5":"res.tixing_png"
+      },
+      "answer": "3,2,1"
+    },
+    "item3": {
+      "question":{
+        "t1":"res.question_mp3",
+        "t2":"res.lbt_png"
+      },
+      "options":{
+        "1":"res.lingxing_png",
+        "2":"res.banyuanxing_png",
+        "3":"res.tixing_png",
+        "4":"res.sanjiaoxing_png",
+        "5":"res.changfangzing_png"
+      },
+      "answer":"3,2,1"
+    },
+    "item4": {
+      "question":{
+        "t1":"res.question_mp3",
+        "t2":"res.ssb_png"
+      },
+      "options":{
+        "1":"res.shanxing_png",
+        "2":"res.sanjiaoxing_png",
+        "3":"res.banyuanxing_png",
+        "4":"res.zhengfangxing_png",
+        "5":"res.changfangzing_png"
+      },
+      "answer": "3,2,1"
+    },
+    "item5": {
+      "question":{
+        "t1":"res.question_mp3",
+        "t2":"res.tzs_png"
+      },
+      "options":{
+        "1":"res.shanxing_png",
+        "2":"res.zhengfangxing_png",
+        "3":"res.tixing_png",
+        "4":"res.sanjiaoxing_png",
+        "5":"res.lingxing_png"
+      },
+      "answer": "3,2,1"
+    }
+  }
+}

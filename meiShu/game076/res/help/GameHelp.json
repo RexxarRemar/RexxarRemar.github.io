@@ -1,0 +1,17 @@
+{
+  "items": {
+    "count":3,
+    "item1": {
+      "t1": "res.help1_jpg",
+      "t2": "res.help_1_mp3"
+    },
+    "item2": {
+      "t1": "res.help2_jpg",
+      "t2": "res.help_2_mp3"
+    },
+    "item3": {
+      "t1": "res.help3_jpg",
+      "t2": "res.help_3_mp3"
+    }
+  }
+}

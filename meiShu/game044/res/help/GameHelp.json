@@ -1,0 +1,25 @@
+{
+  "items": {
+    "count":5,
+    "item1": {
+      "t1": "res.help1_jpg",
+      "t2": "res.help_1_mp3"
+    },
+    "item2": {
+      "t1": "res.help2_jpg",
+      "t2": "res.help_2_mp3"
+    },
+    "item3": {
+      "t1": "res.help3_jpg",
+      "t2": "res.help_3_mp3"
+    },
+    "item4": {
+      "t1": "res.help4_jpg",
+      "t2": "res.help_4_mp3"
+    },
+    "item5": {
+      "t1": "res.help5_jpg",
+      "t2": "res.help_5_mp3"
+    }
+  }
+}

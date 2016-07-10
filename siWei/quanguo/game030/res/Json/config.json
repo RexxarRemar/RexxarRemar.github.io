@@ -1,0 +1,78 @@
+{
+  "items":{
+
+	"item0":{
+	  "memo":"选项",
+	  "options": {
+		  "0":[ "res.Huang_png","10"],
+		  "1":[ "res.Lv_png","16"],
+		  "2":[ "res.Hong_png","17"],
+		  "3":["res.Zi_png","20"],
+		  "4":[ "res.Lan_png","23"]
+	  },
+	  "answer":[17,16,23,20,10]
+	},
+
+	"item1":{
+	  "memo":"选项",
+	  "options": {
+		"0":[ "res.Huang_png","19"],
+		"1":[ "res.Hong_png","28"],
+		"2":[ "res.Lv_png","32"],
+		"3":["res.Zi_png","44"],
+		"4":[ "res.Lan_png","54"]
+	  },
+	  "answer":[28,32,54,44,19]
+	},
+	"item2":{
+	  "memo":"选项",
+	  "options": {
+		"0":["res.Zi_png","21"],
+		"1":[ "res.Lv_png","30"],
+		"2":[ "res.Lan_png","33"],
+		"3":[ "res.Hong_png","37"],
+		"4":[ "res.Huang_png","41"]
+	  },
+	  "answer":[37,30,33,21,41 ]
+	},
+	"item3":{
+	  "memo":"选项",
+	  "options": {
+		"0":[ "res.Hong_png","10"],
+		"1":[ "res.Lv_png","21"],
+		"2":[ "res.Huang_png","23"],
+		"3":[ "res.Lan_png","30"],
+		"4":["res.Zi_png","48"]
+	  },
+	  "answer":[10,21,30,48,23]
+	},
+	"item4":{
+	  "memo":"选项",
+	  "options": {
+		"0":[ "res.Hong_png","28"],
+		"1":[ "res.Huang_png","29"],
+		"2":["res.Zi_png","30"],
+		"3":[ "res.Lan_png","37"],
+		"4":[ "res.Lv_png","40"]
+	  },
+	  "answer":[28,40,37,30,29]
+
+
+	},
+	"item5":{
+	  "memo":"选项",
+	  "options": {
+		"0":[ "res.Lan_png","18"],
+		"1":[ "res.Lv_png","26"],
+		"2":[ "res.Huang_png","27"],
+		"3":[ "res.Hong_png","39"],
+		"4":["res.Zi_png","40"]
+	  },
+	  "answer":[39,26,18,40,27]
+	}
+
+  }
+}
+
+
+

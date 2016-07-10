@@ -1,0 +1,92 @@
+{
+  "items":{
+	"item0":{
+	  "memo":"选项",
+	  "question":"res.tiankong_png",
+	  "options": {
+		  "0":"res.wuyun_png",
+		  "1":"res.shandian_png",
+		  "2":"res.dashu_png",
+		  "3":"res.hailang_png",
+		  "4":"res.yanshi_png",
+		  "5":"res.haicao_png",
+		  "6":"res.caihong_png"
+	  },
+	  "answer":[0,1,6]
+	},
+
+	"item1":{
+	  "memo":"选项",
+	  "question":"res.ludi_png",
+	  "options": {
+		"0":"res.yueliang_png",
+		"1":"res.xiliu_png",
+		"2":"res.jiaoshi_png",
+		"3":"res.dashu_png",
+		"4":"res.beike_png",
+		"5":"res.dashan_png",
+		"6":"res.shanhu_png"
+	  },
+	  "answer":[1,3,5]
+	},
+	"item2":{
+	  "memo":"选项",
+	  "question":"res.dahai_png",
+	  "options": {
+		"0":"res.baiyun_png",
+		"1":"res.xiaocao_png",
+		"2":"res.beike_png",
+		"3":"res.jiaoshi_png",
+		"4":"res.yudi_png",
+		"5":"res.caihong_png",
+		"6":"res.shanhu_png"
+	  },
+	  "answer":[2,3,6]
+	},
+	"item3":{
+	  "memo":"选项",
+	  "question":"res.tiankong_png",
+	  "options": {
+		"0":"res.xingxing_png",
+		"1":"res.huaduo_png",
+		"2":"res.shanhu_png",
+		"3":"res.xuehua_png",
+		"4":"res.dashan_png",
+		"5":"res.xiliu_png",
+		"6":"res.yueliang_png"
+	  },
+	  "answer":[0,3,6]
+	},
+	"item4":{
+	  "memo":"选项",
+	  "question":"res.ludi_png",
+	  "options": {
+		"0":"res.xuehua_png",
+		"1":"res.nitu_png",
+		"2":"res.beike_png",
+		"3":"res.dashan_png",
+		"4":"res.hailang_png",
+		"5":"res.dashu_png",
+		"6":"res.shandian_png"
+	  },
+	  "answer":[1,3,5]
+	},
+	"item5":{
+	  "memo":"选项",
+	  "question":"res.dahai_png",
+	  "options": {
+		"0":"res.shandian_png",
+		"1":"res.dashan_png",
+		"2":"res.jiaoshi_png",
+		"3":"res.hailang_png",
+		"4":"res.caihong_png",
+		"5":"res.shanhu_png",
+		"6":"res.baiyun_png"
+	  },
+	  "answer":[2,3,5]
+	}
+  }
+}
+
+
+
